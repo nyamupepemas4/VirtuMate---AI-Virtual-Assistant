@@ -1,0 +1,1 @@
+ self.scrollAreaWidgetContents.setGeometry(QtCore.QRect(0, 0, 380, 230))
